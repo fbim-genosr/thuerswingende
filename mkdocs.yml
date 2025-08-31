@@ -1,8 +1,8 @@
-site_name: Arbeitsgemeinschaft Open Source Software Thüringer Landesverwaltung
-site_url: https://thlv.usercontent.opencode.de/agoss/
-site_description: Landingpage der Open Source Initiative der Thüringer Landesverwaltung
+site_name: Thüringen swingen
+site_url: https://thürswingen.de
+site_description: Swing Tanz, Lindyhop und Jazz in Thüringen
 site_author: Sebastian Schieke
-repo_url: https://gitlab.opencode.de/thlv/agoss/
+repo_url: https://github.com/fbim-genosr/thuerswingende/
 markdown_extensions:
   - toc:
       permalink: true
