@@ -1,0 +1,18 @@
+---
+#host page first because need to modify markdowns for tables
+#working comment-out such that page not launced in dev
+variables:
+  GIT_DEPTH: 0
+pages:
+  stage: deploy
+  image: python:3.11-bookworm
+  before_script:
+    - pip install --upgrade pip && pip install -r requirements.txt
+    - apt-get update && apt-get install -y pandoc
+    - wget https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl -O apa.csl
+  script:
+    - mkdocs build -f mkdocs.yml
+    - mv site public
+  artifacts:
+    paths:
+    - public

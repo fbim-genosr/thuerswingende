@@ -1,0 +1,24 @@
+site_name: Arbeitsgemeinschaft Open Source Software Thüringer Landesverwaltung
+site_url: https://thlv.usercontent.opencode.de/agoss/
+site_description: Landingpage der Open Source Initiative der Thüringer Landesverwaltung
+site_author: Sebastian Schieke
+repo_url: https://gitlab.opencode.de/thlv/agoss/
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+
+theme:
+  name: material
+  font: false
+  language: de
+  features:
+    - toc.integrate
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - rss
