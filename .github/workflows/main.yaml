@@ -1,18 +1,29 @@
----
-#host page first because need to modify markdowns for tables
-#working comment-out such that page not launced in dev
-variables:
-  GIT_DEPTH: 0
-pages:
-  stage: deploy
-  image: python:3.11-bookworm
-  before_script:
-    - pip install --upgrade pip && pip install -r requirements.txt
-    - apt-get update && apt-get install -y pandoc
-    - wget https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl -O apa.csl
-  script:
-    - mkdocs build -f mkdocs.yml
-    - mv site public
-  artifacts:
-    paths:
-    - public
+name: ci
+on:
+  push:
+    branches:
+      - master
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: ~/.cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
