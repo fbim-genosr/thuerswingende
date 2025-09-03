@@ -20,3 +20,8 @@ theme:
 
 plugins:
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://social.tchncs.de/@hopit
