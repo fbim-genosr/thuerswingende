@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hier gibts Swing Tanz in Thüringen"
+title:  "Swingtanzen in Thüringen"
 date:   2025-08-30
 categories: info
 description: Eine Übersicht von Orten, an denen Du Swingtänze lernene kannst.
