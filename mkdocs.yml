@@ -18,7 +18,6 @@ theme:
   palette:
     primary: brown
   features:
-    - toc.integrate
 
 plugins:
   - search
