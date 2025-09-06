@@ -10,6 +10,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.keys
   - pymdownx.superfences
+  - attr_list
 
 theme:
   name: material
