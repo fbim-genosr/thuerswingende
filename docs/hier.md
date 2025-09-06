@@ -43,7 +43,7 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Parties in Thüring
 | Gera | Häselburg | [https://haeselburg.org/haeselburg-jazz.html](https://haeselburg.org/haeselburg-jazz.html)
 
 
-# related
+# related stuff
 
 | Wo | Was | Website
 |----|-----|--------
