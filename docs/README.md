@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Das ist Thürswingen.de
 ---
 

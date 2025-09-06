@@ -3,6 +3,8 @@ layout: post
 title:  "Ride & Hop in Weimar"
 date:   2025-08-19
 categories: veranstaltung
+hide:
+  - toc
 ---
 
 ## Sonntag, 31. August 2025, 14 Uhr
