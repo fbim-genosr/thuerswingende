@@ -24,6 +24,7 @@ plugins:
   - search
   - tags
   - blog
+  - git-revision-date-localized
 
 extra:
   social:
