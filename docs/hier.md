@@ -48,6 +48,6 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Parties in Thüring
 | Wo | Was | Website
 |----|-----|--------
 | Erfurt | gut sortierter Plattenladen mit viel Swing und Jazz Musik | [https://musikfundgrube-erfurt.de](https://musikfundgrube-erfurt.de)
-| Weimar, Marktstraße 6 | Krawatte Kaiser - sehr gut sortierter Laden für Krawatten und Schleifen
+| Weimar, Marktstraße 6 | Krawatte Kaiser - Ältestes Krawattengeschäft Thüringens, mit der größten Auswahl nördlich der Alpen.
 
-> Danke an Laura, Jano
+> Danke an Laura, Jano, Caro
