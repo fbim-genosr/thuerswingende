@@ -29,7 +29,6 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Parties in Thüring
 | Jena, Weigelstraße 7, Off Bar | 1. Montag eines Monats, 19:30 Uhr | tanzbare Live Swing Musik (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa) | [https://www.off-jena.de](https://www.off-jena.de)
 | Jena, Schenkstraße 21 (3. Etage) | Donnerstags, 20 Uhr | freies Training (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa)
 
-
 # Veranstaltungsorte für Jazzmusik
 
 | Wo | Was | Website
@@ -42,7 +41,6 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Parties in Thüring
 | Nordhausen | JAZZ-Club Nordhausen | [https://jazzclub-nordhausen.de](https://jazzclub-nordhausen.de)
 | Gera | Häselburg | [https://haeselburg.org/haeselburg-jazz.html](https://haeselburg.org/haeselburg-jazz.html)
 
-
 # related stuff
 
 | Wo | Was | Website
@@ -51,3 +49,4 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Parties in Thüring
 | Weimar, Marktstraße 6 | Krawatte Kaiser - Ältestes Krawattengeschäft Thüringens, mit der größten Auswahl nördlich der Alpen.
 
 > Danke an Laura, Jano, Caro
+  zuletzt aktualisiert: 2025-10-06 
